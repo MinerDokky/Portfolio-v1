@@ -1,0 +1,219 @@
+@media (max-width: 768px){
+	*{
+		transition: all 0.5s;
+	}
+	h1.presentation1{
+	margin-left: 10vw;
+	margin-top: 35vh;
+	}
+
+	h1.presentation2{
+		margin-left: 30vw; 
+	}
+
+	img.cloud{
+		width: 20vw;
+	}
+
+	.about img{
+		width: 30%;
+	}
+
+	.contact{
+		background: #e66767;
+	}
+
+	form{
+		float: none;
+		text-align: center;
+	}
+
+	div.maindivs{
+		height: 50vh;
+	}
+
+
+	div.jlv h4{
+	margin: 10px;
+	}
+
+	div.jlv p{
+	font-size: 1em;
+	}
+
+	div.itic h4{
+	margin: 10px;
+	}
+
+	div.itic p{
+	font-size: 1em;
+	}
+
+	div.supdeweb h4{
+	margin: 10px;
+	}
+
+	div.supdeweb p{
+	font-size: 1em;
+	}
+
+	.contact{
+		height: 50vh;
+	}
+	
+	p.presentation{
+		font-size: 1em;
+	}
+}
+
+
+@media (max-width: 615px){
+	h1.presentation1{
+	margin-left: 10vw;
+	margin-top: 35vh;
+	}
+
+	h1.presentation2{
+		margin-left: 20vw; 
+	}
+
+	main{
+		width: 100%;
+		left: 0vw;
+	}
+
+	h2{
+		font-size: 90px;
+	}
+
+	.about img{
+	width: 30%;
+	}
+
+	div.pr{
+		width: 100vw;
+	}
+
+	div.design{
+	margin-top: 200px;
+	}
+
+	div.cms{
+		margin-top: 350px;
+	}
+	
+	p.presentation{
+		font-size: 0.9em;
+	}
+}
+
+@media (max-width: 515px){
+	h1.presentation1{
+	margin-left: 15vw;
+	margin-top: 35vh;
+	font-size: 70px;
+	}
+
+	h1.presentation2{
+		margin-left: 5vw; 
+		font-size: 70px;
+	}
+
+	h2{
+		font-size: 70px;
+		text-align: center;
+	}
+
+
+		div.supdeweb{
+		width: 50vw;
+	}
+
+	div.jlv{
+		width: 50vw;
+	}
+
+	div.itic{
+		width: 50vw;
+	}
+
+	.about img{
+	width: 20%;
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	
+	}
+
+	p.presentation{
+	font-size: 0.7em;
+	left: 35%;
+	top: 50%;
+	transform: translateY(-50%);}	
+
+}
+
+@media (max-width: 376px){
+	div.supdeweb{
+		width: 30vw;
+
+	}
+
+	div.jlv{
+		width: 30vw;
+
+	}
+
+	div.itic{
+		width: 30vw;
+
+	}
+
+	div.jlv h4{
+		margin: 3px;
+	}
+	
+	div.jlv p{
+		font-size: 0.5em;
+	}
+
+	div.itic h4{
+		margin: 3px;
+	}
+	
+	div.itic p{
+		font-size: 0.5em;
+	}
+
+	div.supdeweb h4{
+		margin: 3px;
+	}
+	
+	div.supdeweb p{
+		font-size: 0.5em;
+	}
+
+	div.maindivs{
+		height: 70vh;
+	}
+
+	.contact{
+		height: 100vh;
+	}
+
+	input{
+		width: 200px;
+	}
+	
+	textarea{
+		width: 200px;
+	}
+
+	input[type=submit]{
+		width: 240px;
+	}
+	h2.education{
+		background-color: transparent;
+		font-size: 60px;
+	}
+}
